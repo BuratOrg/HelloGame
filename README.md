@@ -1,2 +1,2 @@
 # HelloGame
-First trry on game coding
+First try on game coding
